@@ -54,7 +54,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 > 1. Build a database
 > 2. Create table and insert the data.
-> 3. Select columns with null values in them. There are no null values in our database as in creating the tables, we set **NOT NULL** for each field, hence null values are filtered out.
+> 3. Select columns with null values in them. There are no null values in our database as in creating the tables, I had to set **NOT NULL** for each field, hence null values are filtered out.
 
 2. **Feature Engineering:** This will help use generate some new columns from existing ones.
 
