@@ -1,1 +1,1 @@
-# walmart_aales_analysis_with_SQL
+# walmart_sales_analysis_with_SQL
