@@ -4,7 +4,7 @@
 
 The objective of this project is to analyze Walmart's sales data in order to gain insights into the best-performing store branches and products, track the sales trends of various products, and understand customer behavior. The primary goal is to investigate ways to enhance and optimize sales strategies. The dataset used for this analysis was sourced from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
-"In this recruitment challenge, individuals looking for employment are given access to historical sales data from 45 Walmart stores situated in different regions. Each store comprises multiple departments, and participants are tasked with predicting sales figures for each department within each store. Furthermore, the dataset incorporates selected holiday markdown events, which are known to influence sales, though it can be challenging to predict which departments are impacted and to what extent." [source](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
+In this recruitment challenge, individuals looking for employment are given access to historical sales data from 45 Walmart stores situated in different regions. Each store comprises multiple departments, and participants are tasked with predicting sales figures for each department within each store. Furthermore, the dataset incorporates selected holiday markdown events, which are known to influence sales, though it can be challenging to predict which departments are impacted and to what extent. [source](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting)
 
 ## Purposes Of The Project
 
